@@ -1,4 +1,4 @@
-# Python Calculator Application
+# Neurostack - Python Calculator Application
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -176,25 +176,4 @@ print(calc.square_root(144))   # Output: 12.0
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Story Reference
-
-**Story ID**: KAN-105  
-**Summary**: CLONE - Develop Calculator App in Python  
-**Status**: In Progress
-
-### Acceptance Criteria
-
-- ✅ Support basic operations: addition, multiplication, subtraction, division
-- ✅ Support advanced operations: modulo, square, square root
-- ✅ Implement using Python
-- ✅ Push code to GitHub repository
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub.
+Contributions are welcome
