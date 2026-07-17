@@ -1,0 +1,7 @@
+# Python Calculator Application Requirements
+# No external dependencies required for core functionality
+# All operations use Python standard library
+
+# Development and testing dependencies (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
